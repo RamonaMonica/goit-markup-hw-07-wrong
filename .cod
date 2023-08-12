@@ -1,0 +1,171 @@
+<!--Team-->
+
+<section class="team-team">
+  <div class="container">
+    <h1 style="text-align: center" class="section-team">Our Team</h1>
+    <div class="card">
+      <img
+        class="card-image no-gap"
+        src="./images/team 1.jpg"
+        alt="team1 Image"
+        alt="about christofer"
+        height="260"
+        width="270"
+      />
+      <h4 class="card-heading">Christopher Walker</h4>
+      <p class="card-heading1">Product Designer</p>
+    </div>
+    <div class="card">
+      <img
+        class="card-image no-gap"
+        src="./images/team 2.jpg"
+        alt="team2 Image"
+        alt="about kylie"
+        height="260"
+        width="270"
+      />
+      <h4 class="card-heading">Kylie Evans</h4>
+      <p class="card-heading1">Frontend Developer</p>
+    </div>
+    <div class="card">
+      <img
+        class="card-image no-gap"
+        src="./images/team 3.jpg"
+        alt="team3 Image"
+        alt="about ryan"
+        height="260"
+        width="270"
+      />
+      <h4 class="card-heading">Ryan Harris</h4>
+      <p class="card-heading1">Marketing</p>
+    </div>
+    <div class="card">
+      <img
+        class="card-image no-gap"
+        src="./images/team 4.jpg"
+        alt="team4 Image"
+        alt="about tyler"
+        height="260"
+        width="270"
+      />
+      <h4 class="card-heading">Tyler Moore</h4>
+      <p class="card-heading1">UI Designer</p>
+    </div>
+  </div>
+</section>
+
+<!--Footer section-->
+<footer class="footer-section">
+  <section>
+    <h2 class="website-title2">
+      <span class="web2">Web</span><span class="studio2">Studio</span>
+    </h2>
+    <address>
+      <p>695 Park Ave, NY 10065, USA</p>
+      <a class="e-mail-link" href="mailto:info@devstudio.com"
+        >info@devstudio.com</a
+      >
+      <a class="phone-contact" href="tel:+1 212-772-4150">+1 212-772-4150</a>
+    </address>
+  </section>
+</footer>
+
+
+
+
+
+good 
+  <!--MOTHER SECTION--> 
+
+
+  <section class="big-section">
+    <!--Buttons-->
+    <section class="container3">
+     <section class="buttons">
+       <button class="button-all">All</button>
+       <button class="button-websites">Web-sites</button>
+       <button class="button-apps">Apps</button>
+       <button class="button-design">Design</button>
+       <button class="button-marketing">Marketing</button>
+     </section>
+     <section class="items-presentation">
+       <ul>
+         <li>
+           <div class="card">
+             <img
+               class="card-image no-gap"
+               src="./images/imag1.jpg"
+               alt="image1"
+             />
+             <h4 class="card-heading">Marketing</h4>
+             <p class="card-heading1">Web-site</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="./images/imag2.jpg" alt="image2" />
+             <h4 class="card-heading">Poster New Orlean vs Golden Star</h4>
+             <p class="card-heading1">Design</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="images/imag3.jpg" alt="image3" />
+             <h4 class="card-heading">Seafood Restaurant</h4>
+             <p class="card-heading1">Apps</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="./images/imag4.jpg" alt="image4" />
+             <h4 class="card-heading">Project Prime</h4>
+             <p class="card-heading1">Marketing</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="./images/imag5.jpg" alt="image5" />
+             <h4 class="card-heading">Project Boxes</h4>
+             <p class="card-heading1">Apps</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="./images/imag6.jpg" alt="image6" />
+             <h4 class="card-heading">Inspiration has no Borders</h4>
+             <p class="card-heading1">Web-site</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="./images/imag7.jpg" alt="image7" />
+             <h4 class="card-heading">Limited Edition</h4>
+             <p class="card-heading1">Design</p>
+           </div>
+         </li>
+         <li>
+           <div class="card">
+             <img class="card-image no-gap" src="images/imag8.jpg" alt="image8" />
+             <h4 class="card-heading">Project LAB</h4>
+             <p class="card-heading1">Marketing</p>
+           </div>
+         </li>
+         <li>
+           <div class="card"> 
+             <img class="card-image no-gap" src="./images/imag9.jpg" alt="image9" />
+             <h4 class="card-heading">Growing Business</h4>
+             <p class="card-heading1">Apps</p>
+           </div>
+         </li>
+       </ul>
+     </section>
+
+     </main>
+
+   </section>
+
+ </section>
+
+
+
+

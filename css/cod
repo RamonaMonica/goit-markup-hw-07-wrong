@@ -1,0 +1,35 @@
+      <div class="regular-customers small-container section">
+        <h3 class="regular-customers-title">Regular Customers</h3>
+        <div class="regular-customers-container">
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-Logo1">
+              <use href="./icons/symbol-defs.svg"></use>
+            </svg>
+          </rect>
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-logo2">
+              <use href="./icons/symbol-defs.svg#icon-logo2"></use>
+            </svg>
+          </rect>
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-Logo3">
+              <use href="./icons/symbol-defs.svg"></use>
+            </svg>
+          </rect>
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-Logo4">
+              <use href="./icons/symbol-defs.svg"></use>
+            </svg>
+          </rect>
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-Logo5"">
+              <use href="./icons/symbol-defs.svg"></use>
+            </svg>
+          </rect>
+          <rect class="regular-customers-logo-container"
+            ><svg class="regular-customers-logo" id="icon-Logo6">
+              <use href="./icons/symbol-defs.svg"></use>
+            </svg>
+          </rect>
+        </div>
+      </div>

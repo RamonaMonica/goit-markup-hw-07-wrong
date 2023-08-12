@@ -1,0 +1,114 @@
+.container {
+    width: 768px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px solid #ececec;
+   }
+
+   .global-header {
+    display: flex;
+    box-sizing: content-box;
+    align-items: first baseline;
+    justify-content: space-between;
+    width: 768px;
+    height: 80px;
+    flex-shrink: 0;
+    border-bottom: 1px solid #ececec;
+    position: relative;
+   }
+   
+   .logo-img {
+    display: flex;
+        position: absolute;
+        justify-content: flex-start;
+        width: 134px;
+        height: 28px;
+        top: 12px;
+        left: 15px;
+}
+.main-navigation {
+   display: flex;
+   position: absolute;
+   box-sizing: content-box;
+   justify-content: space-between;
+   width: 259px;
+   height: 16px;
+   margin-left: 93px;
+   margin-right: 0;
+   color: #212121;
+   top: 32px;
+   left: 355px;
+}
+.first-section {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-between;
+    width: 738px;
+    height: 507px;
+    margin-top: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+
+.specific-works {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 354px;
+    height: 251px;
+
+}
+.qualities-rect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 354px;
+    height: 120px;
+    background-color: #f5f4fa;
+    margin-bottom: 30px;
+  }
+
+
+
+  .team {
+    display: flex;
+    flex-direction: column;
+    width: 768px;
+    height: 1285px;
+    background-color: #f5f4fa;
+}
+
+.third-part {
+    display: flex;
+    box-sizing: content-box;
+    justify-content: center;
+    align-items: center;
+    width: 128px;
+    height: 33px;
+    font-size: 28px;
+    font-weight: 700;
+    padding: 60px 320px 0;
+
+}
+
+.team-composition {
+    width: 768px;
+    height: 1285px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.last-section {
+    display: flex;
+    position: relative;
+    width: 768px;
+    height: 277px;
+
+}
